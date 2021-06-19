@@ -156,7 +156,7 @@ def expand_path (xy):
 	return a
 
 #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #  #
-# creating a blob roughly (but not certainly) enclosing the stundets and teacher of a class
+# creating a blob roughly (but not certainly) enclosing the students and teacher of a class
 
 def smooth_patch (points):
 
